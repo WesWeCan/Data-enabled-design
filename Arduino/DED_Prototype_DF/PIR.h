@@ -1,0 +1,3 @@
+void passedBy() {
+  PIRDetected = true;
+}
