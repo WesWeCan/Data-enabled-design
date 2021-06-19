@@ -1,4 +1,4 @@
-// Script to test all the logic.
+// Script to test all the logic. Pre-contextual step.
 
 int pin = 35;
 
